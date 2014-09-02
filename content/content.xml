@@ -1,0 +1,520 @@
+<site>
+ <posts />
+ <pages customHeadHtml="">
+  <page author="" caption="Home" customHeadHtml="" dateModified="09/01/2014 00:36:18" description="" keywords="" metaTags="" name="home" path="/home" showInHmenu="True" showInVmenu="True" showTitle="False" title="Home" titleInBrowser="Home">
+   <pageHead>&lt;style&gt;.art-content .art-postcontent-0 .layout-item-0 { border-top-style:solid;border-right-style:solid;border-bottom-style:solid;border-left-style:solid;border-width:5px;border-color:#FFFFFF; color: #2C2C20; background:  url('images/3b5a5.jpg') no-repeat scroll;  }
+.art-content .art-postcontent-0 .layout-item-1 { color: #2C2C20; padding-right: 0px;padding-left: 0px;  }
+.art-content .art-postcontent-0 .layout-item-2 { margin-top: 10px;  }
+.art-content .art-postcontent-0 .layout-item-3 { border-top-style:solid;border-right-style:solid;border-bottom-style:solid;border-left-style:solid;border-top-width:1px;border-right-width:4px;border-bottom-width:1px;border-left-width:4px;border-top-color:#DEDFD3;border-right-color:#DEDFD3;border-bottom-color:#DEDFD3;border-left-color:#DEDFD3; color: #2F2F22; background: #F4F4F0;  border-collapse: separate; border-radius: 10px;  }
+.art-content .art-postcontent-0 .layout-item-4 { border-top-style:solid;border-right-style:Dotted;border-bottom-style:solid;border-left-style:solid;border-top-width:0px;border-right-width:2px;border-bottom-width:0px;border-left-width:0px;border-color:#E1E1D6; color: #2F2F22; padding-top: 15px;padding-right: 20px;padding-bottom: 10px;padding-left: 20px; border-top-left-radius: 10px;border-bottom-left-radius: 10px;  }
+.art-content .art-postcontent-0 .layout-item-5 { border-top-style:solid;border-right-style:Dotted;border-bottom-style:solid;border-left-style:solid;border-top-width:0px;border-right-width:2px;border-bottom-width:0px;border-left-width:0px;border-color:#E1E1D6; color: #2F2F22; padding-top: 15px;padding-right: 20px;padding-bottom: 10px;padding-left: 20px;  }
+.art-content .art-postcontent-0 .layout-item-6 { border-top-style:solid;border-right-style:solid;border-bottom-style:solid;border-left-style:solid;border-width:0px;border-top-color:#DEDFD3;border-right-color:#DEDFD3;border-bottom-color:#DEDFD3;border-left-color:#DEDFD3; color: #2F2F22; padding-top: 15px;padding-right: 20px;padding-bottom: 10px;padding-left: 20px; border-top-right-radius: 10px;border-bottom-right-radius: 10px;  }
+.art-content .art-postcontent-0 .layout-item-7 { margin-top: 18px;  }
+.art-content .art-postcontent-0 .layout-item-8 { border-spacing: 20px 0px; border-collapse: separate;  }
+.art-content .art-postcontent-0 .layout-item-9 { border-bottom-style:Dotted;border-bottom-width:2px;border-bottom-color:#DEDFD3; background: ; padding-right: 0px;padding-left: 0px;  }
+.art-content .art-postcontent-0 .layout-item-10 { border-bottom-style:Dotted;border-bottom-width:2px;border-bottom-color:#DEDFD3; padding-right: 0px;padding-left: 0px;  }
+.art-content .art-postcontent-0 .layout-item-11 { border-right-style:solid;border-right-width:0px;border-right-color:#DEDFD3; background: ; padding-right: 20px;padding-left: 0px;  }
+.art-content .art-postcontent-0 .layout-item-12 { padding-right: 0px;padding-left: 0px;  }
+.ie7 .art-post .art-layout-cell {border:none !important; padding:0 !important; }
+.ie6 .art-post .art-layout-cell {border:none !important; padding:0 !important; }
+
+&lt;/style&gt;</pageHead>
+   <content>&lt;div class="art-content-layout layout-item-0"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-1" style="width: 100%" &gt;
+        &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout-wrapper layout-item-2"&gt;
+&lt;div class="art-content-layout layout-item-3"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-4" style="width: 33%" &gt;
+        &lt;h5&gt;&lt;img width="58" height="53" alt="" src="./images/333.png" style="float: left; margin-right: 14px; margin-bottom: 50px; margin-left: 0px;"&gt;Family Planning&lt;/h5&gt;&lt;h6&gt;Lorem ipsum dolor &amp;nbsp;amet, consectetur adipiscing elit. Etiam tellus sit amet congue vulputate.&lt;br&gt;&lt;/h6&gt;&lt;p style="padding-left: 60px;"&gt;&amp;nbsp; &amp;nbsp;&lt;a href="#" class="art-button"&gt;Read More&lt;/a&gt;&amp;nbsp;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-5" style="width: 34%" &gt;
+        &lt;h5&gt;&lt;img width="58" height="53" alt="" src="./images/111.png" style="float: left; margin-right: 12px; margin-bottom: 50px; margin-left: 0px;"&gt;Expert Answers&lt;br&gt;&lt;/h5&gt;&lt;h6&gt;consectetur adipiscing elit. Etiam pharetra, tellus sit amet congue vulputate, nisi erat IACULIS NIBH.&lt;br&gt;&lt;/h6&gt;&lt;p style="padding-left: 60px;"&gt;&amp;nbsp;&amp;nbsp;&lt;a href="#" class="art-button"&gt;READ MORE&lt;/a&gt;&amp;nbsp;&lt;br&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-6" style="width: 33%" &gt;
+        &lt;h5&gt;&lt;img width="58" height="53" alt="" src="./images/222.png" style="float: left; margin-right: 12px; margin-bottom: 50px; margin-left: 0px;"&gt;Baby Health&lt;br&gt;&lt;/h5&gt;&lt;h6&gt;Etiam pharetra, tellus &amp;nbsp;amet congue vulputate, nisi erat iaculis nibh, vitae feugiat sapien ante eget.&lt;br&gt;&lt;/h6&gt;&lt;p style="padding-left: 60px;"&gt;&amp;nbsp; &lt;a href="#" class="art-button"&gt;READ MORE&lt;/a&gt;&amp;nbsp;&lt;br&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout-wrapper layout-item-7"&gt;
+&lt;div class="art-content-layout layout-item-8"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-9" style="width: 50%" &gt;
+        &lt;h4&gt;Parent Advice&lt;br&gt;&lt;/h4&gt;
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-10" style="width: 50%" &gt;
+        &lt;h4&gt;Featured Categories&lt;br&gt;&lt;/h4&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout layout-item-8"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-11" style="width: 50%" &gt;
+        &lt;h3&gt;&lt;img width="166" height="106" alt="" src="./images/777.png" style="float: left; margin-top: 7px; margin-right: 12px; margin-left: 0px;"&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/h3&gt;&lt;p&gt;&amp;nbsp;Etiam pharetra, tellus sit amet congue vulputate, nisi erat iaculis nibh, vitae feugiat sapien ante eget&amp;nbsp;mauris.&amp;nbsp;Aenean sollicitudin imperdiet arcu, vitae dignissim est posuere id.&amp;nbsp;Nunc a sollicitudin est.&amp;nbsp;Curabitur ullamcorper gravida felis, sit amet scelerisque lorem iaculis sed.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Donec vel neque in neque porta venenatis sed sit amet lectus.&lt;br&gt;&lt;/li&gt;&lt;li&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;
+        &lt;/p&gt;
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-12" style="width: 50%" &gt;
+        &lt;p&gt;&lt;img width="132" height="84" alt="" src="./images/444.png" style=" margin-top: 0px; margin-left: 0px; " class=""&gt;&lt;img width="132" height="84" alt="" src="./images/555.png" style=" margin-top: 0px; margin-left: 0px; " class=""&gt;&lt;img width="132" height="84" alt="" src="./images/666.png" style=" margin-top: 0px; margin-right: 0px; margin-left: 0px; " class=""&gt;&amp;nbsp;&lt;br&gt;&lt;/p&gt;&lt;table class="art-article" style="width: 100%; "&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="width: 50%; "&gt;&lt;h2&gt;Baby Sleep&lt;/h2&gt;&lt;strong class="bold"&gt;&lt;/strong&gt;&lt;span style="-webkit-border-horizontal-spacing: 20px; "&gt;&lt;br&gt;&lt;a href="#"&gt;Lorem ipsum dolor sit amet.&lt;/a&gt; &lt;br&gt;&lt;a href="#"&gt;Consectetur adipiscing elit.&lt;/a&gt; &lt;br&gt;&lt;a href="#" &gt;Etiam pharetra, tellus sit amet.&lt;/a&gt;&lt;br&gt;&lt;a href="#"&gt;Nunc a sollicitudin est.&lt;/a&gt;&lt;/span&gt;&lt;br&gt;&lt;/td&gt;&lt;td style="width: 50%; "&gt;&lt;h2&gt;Feeding&lt;/h2&gt;&lt;strong class="bold"&gt;&lt;/strong&gt;&lt;span style="-webkit-border-horizontal-spacing: 20px; "&gt;&lt;br&gt;&lt;a href="#"&gt;Aenean sollicitudin imperdiet.&lt;/a&gt;&lt;br&gt;&lt;a href="#"&gt;Vitae dignissim est posuere id.&lt;/a&gt;&amp;nbsp; &lt;a href="#"&gt;Curabitur ullamcorper gravida.&lt;/a&gt; &lt;a href="#" &gt;Donec vel neque in neque porta.&lt;/a&gt;&lt;/span&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+   <layout>
+    <struct>&lt;div class="art-content-layout layout-item-0"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-1" style="width: 100%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout-wrapper layout-item-2"&gt;
+&lt;div class="art-content-layout layout-item-3"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-4" style="width: 33%" &gt;
+        {content}
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-5" style="width: 34%" &gt;
+        {content}
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-6" style="width: 33%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout-wrapper layout-item-7"&gt;
+&lt;div class="art-content-layout layout-item-8"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-9" style="width: 50%" &gt;
+        {content}
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-10" style="width: 50%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout layout-item-8"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-11" style="width: 50%" &gt;
+        {content}
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-12" style="width: 50%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</struct>
+    <contents>
+     <content>&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content>
+     <content>&lt;h5&gt;&lt;img width="58" height="53" alt="" src="333.png" style="float: left; margin-right: 14px; margin-bottom: 50px; margin-left: 0px;"&gt;Family Planning&lt;/h5&gt;&lt;h6&gt;Lorem ipsum dolor &amp;nbsp;amet, consectetur adipiscing elit. Etiam tellus sit amet congue vulputate.&lt;br&gt;&lt;/h6&gt;&lt;p style="padding-left: 60px;"&gt;&amp;nbsp; &amp;nbsp;&lt;a href="#" class="art-button"&gt;Read More&lt;/a&gt;&amp;nbsp;&lt;/p&gt;</content>
+     <content>&lt;h5&gt;&lt;img width="58" height="53" alt="" src="111.png" style="float: left; margin-right: 12px; margin-bottom: 50px; margin-left: 0px;"&gt;Expert Answers&lt;br&gt;&lt;/h5&gt;&lt;h6&gt;consectetur adipiscing elit. Etiam pharetra, tellus sit amet congue vulputate, nisi erat IACULIS NIBH.&lt;br&gt;&lt;/h6&gt;&lt;p style="padding-left: 60px;"&gt;&amp;nbsp;&amp;nbsp;&lt;a href="#" class="art-button"&gt;READ MORE&lt;/a&gt;&amp;nbsp;&lt;br&gt;&lt;/p&gt;</content>
+     <content>&lt;h5&gt;&lt;img width="58" height="53" alt="" src="222.png" style="float: left; margin-right: 12px; margin-bottom: 50px; margin-left: 0px;"&gt;Baby Health&lt;br&gt;&lt;/h5&gt;&lt;h6&gt;Etiam pharetra, tellus &amp;nbsp;amet congue vulputate, nisi erat iaculis nibh, vitae feugiat sapien ante eget.&lt;br&gt;&lt;/h6&gt;&lt;p style="padding-left: 60px;"&gt;&amp;nbsp; &lt;a href="#" class="art-button"&gt;READ MORE&lt;/a&gt;&amp;nbsp;&lt;br&gt;&lt;/p&gt;</content>
+     <content>&lt;h4&gt;Parent Advice&lt;br&gt;&lt;/h4&gt;</content>
+     <content>&lt;h4&gt;Featured Categories&lt;br&gt;&lt;/h4&gt;</content>
+     <content>&lt;h3&gt;&lt;img width="166" height="106" alt="" src="777.png" style="float: left; margin-top: 7px; margin-right: 12px; margin-left: 0px;"&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/h3&gt;&lt;p&gt;&amp;nbsp;Etiam pharetra, tellus sit amet congue vulputate, nisi erat iaculis nibh, vitae feugiat sapien ante eget&amp;nbsp;mauris.&amp;nbsp;Aenean sollicitudin imperdiet arcu, vitae dignissim est posuere id.&amp;nbsp;Nunc a sollicitudin est.&amp;nbsp;Curabitur ullamcorper gravida felis, sit amet scelerisque lorem iaculis sed.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Donec vel neque in neque porta venenatis sed sit amet lectus.&lt;br&gt;&lt;/li&gt;&lt;li&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;
+&lt;/p&gt;</content>
+     <content>&lt;p&gt;&lt;img width="132" height="84" alt="" src="444.png" style=" margin-top: 0px; margin-left: 0px; " class=""&gt;&lt;img width="132" height="84" alt="" src="555.png" style=" margin-top: 0px; margin-left: 0px; " class=""&gt;&lt;img width="132" height="84" alt="" src="666.png" style=" margin-top: 0px; margin-right: 0px; margin-left: 0px; " class=""&gt;&amp;nbsp;&lt;br&gt;&lt;/p&gt;&lt;table class="art-article" style="width: 100%; "&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style="width: 50%; "&gt;&lt;h2&gt;Baby Sleep&lt;/h2&gt;&lt;strong class="bold"&gt;&lt;/strong&gt;&lt;span style="-webkit-border-horizontal-spacing: 20px; "&gt;&lt;br&gt;&lt;a href="#"&gt;Lorem ipsum dolor sit amet.&lt;/a&gt; &lt;br&gt;&lt;a href="#"&gt;Consectetur adipiscing elit.&lt;/a&gt; &lt;br&gt;&lt;a href="#" &gt;Etiam pharetra, tellus sit amet.&lt;/a&gt;&lt;br&gt;&lt;a href="#"&gt;Nunc a sollicitudin est.&lt;/a&gt;&lt;/span&gt;&lt;br&gt;&lt;/td&gt;&lt;td style="width: 50%; "&gt;&lt;h2&gt;Feeding&lt;/h2&gt;&lt;strong class="bold"&gt;&lt;/strong&gt;&lt;span style="-webkit-border-horizontal-spacing: 20px; "&gt;&lt;br&gt;&lt;a href="#"&gt;Aenean sollicitudin imperdiet.&lt;/a&gt;&lt;br&gt;&lt;a href="#"&gt;Vitae dignissim est posuere id.&lt;/a&gt;&amp;nbsp; &lt;a href="#"&gt;Curabitur ullamcorper gravida.&lt;/a&gt; &lt;a href="#" &gt;Donec vel neque in neque porta.&lt;/a&gt;&lt;/span&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</content>
+    </contents>
+   </layout>
+  </page>
+  <page author="" caption="Parenting" customHeadHtml="" dateModified="09/01/2014 00:36:18" description="" keywords="" metaTags="" name="parenting-2" path="/parenting-2" showInHmenu="True" showInVmenu="True" showTitle="True" title="Parenting" titleInBrowser="Parenting">
+   <pageHead>&lt;style&gt;.art-content .art-postcontent-0 .layout-item-0 { color: #2C2C20; background: #E5E5DC; border-spacing: 20px 0px; border-collapse: separate;  }
+.art-content .art-postcontent-0 .layout-item-1 { color: #2C2C20;  }
+.ie7 .art-post .art-layout-cell {border:none !important; padding:0 !important; }
+.ie6 .art-post .art-layout-cell {border:none !important; padding:0 !important; }
+
+&lt;/style&gt;</pageHead>
+   <content>&lt;div class="art-content-layout layout-item-0"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-1" style="width: 100%" &gt;
+        &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam pharetra, tellus sit amet congue vulputate, nisi erat iaculis nibh, vitae feugiat sapien ante eget mauris.&amp;nbsp;Aenean sollicitudin imperdiet arcu, vitae dignissim est posuere id.&lt;/p&gt;
+        &lt;p&gt;Nunc a sollicitudin est. Curabitur ullamcorper gravida felis, sit amet scelerisque lorem iaculis sed. Donec vel neque in neque porta venenatis sed sit amet lectus.&lt;br&gt;&lt;/p&gt;
+        &lt;ul&gt;
+        &lt;li&gt;Suspendisse pharetra auctor pharetra. Nunc a sollicitudin est.&lt;/li&gt;
+        &lt;li&gt;Donec vel neque in neque porta venenatis sed sit amet lectus.&lt;/li&gt;
+        &lt;li&gt;Curabitur ullamcorper gravida felis, sit amet scelerisque lorem iaculis sed.&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;p&gt;&lt;a href="#"&gt;Read more&lt;/a&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+   <layout>
+    <struct>&lt;div class="art-content-layout layout-item-0"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-1" style="width: 100%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</struct>
+    <contents>
+     <content>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam pharetra, tellus sit amet congue vulputate, nisi erat iaculis nibh, vitae feugiat sapien ante eget mauris.&amp;nbsp;Aenean sollicitudin imperdiet arcu, vitae dignissim est posuere id.&lt;/p&gt;
+&lt;p&gt;Nunc a sollicitudin est. Curabitur ullamcorper gravida felis, sit amet scelerisque lorem iaculis sed. Donec vel neque in neque porta venenatis sed sit amet lectus.&lt;br&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Suspendisse pharetra auctor pharetra. Nunc a sollicitudin est.&lt;/li&gt;
+&lt;li&gt;Donec vel neque in neque porta venenatis sed sit amet lectus.&lt;/li&gt;
+&lt;li&gt;Curabitur ullamcorper gravida felis, sit amet scelerisque lorem iaculis sed.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href="#"&gt;Read more&lt;/a&gt;&lt;/p&gt;</content>
+    </contents>
+   </layout>
+   <pages>
+    <page author="" caption="Food" customHeadHtml="" dateModified="09/01/2014 00:36:18" description="" keywords="" metaTags="" name="new-page" path="/parenting-2/new-page" showInHmenu="True" showInVmenu="True" showTitle="True" title="Food" titleInBrowser="Food">
+     <pageHead>&lt;style&gt;.art-content .art-postcontent-0 .layout-item-0 { color: #2C2C20; background: #E5E5DC; border-spacing: 20px 0px; border-collapse: separate;  }
+.art-content .art-postcontent-0 .layout-item-1 { color: #2C2C20; padding-right: 0px;padding-left: 0px;  }
+.ie7 .art-post .art-layout-cell {border:none !important; padding:0 !important; }
+.ie6 .art-post .art-layout-cell {border:none !important; padding:0 !important; }
+
+&lt;/style&gt;</pageHead>
+     <content>&lt;div class="art-content-layout layout-item-0"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-1" style="width: 100%" &gt;
+        &lt;p&gt;&lt;span style="color: rgb(47, 47, 34);"&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam pharetra, tellus sit amet congue vulputate, nisi erat iaculis nibh, vitae feugiat sapien ante eget mauris.&amp;nbsp;Aenean sollicitudin imperdiet arcu, vitae dignissim est posuere id.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="color: rgb(47, 47, 34);"&gt;Nunc a sollicitudin est. Curabitur ullamcorper gravida felis, sit amet scelerisque lorem iaculis sed. Donec vel neque in neque porta venenatis sed sit amet lectus.&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span style="color: rgb(47, 47, 34);"&gt;Suspendisse pharetra auctor pharetra. Nunc a sollicitudin est.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="color: rgb(47, 47, 34);"&gt;Donec vel neque in neque porta venenatis sed sit amet lectus.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="color: rgb(47, 47, 34);"&gt;Curabitur ullamcorper gravida felis, sit amet scelerisque lorem iaculis sed.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;span style="color: rgb(47, 47, 34);"&gt;&lt;a href="#"&gt;Read more&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+     <layout>
+      <struct>&lt;div class="art-content-layout layout-item-0"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-1" style="width: 100%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</struct>
+      <contents>
+       <content>&lt;p&gt;&lt;span style="color: rgb(47, 47, 34);"&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam pharetra, tellus sit amet congue vulputate, nisi erat iaculis nibh, vitae feugiat sapien ante eget mauris.&amp;nbsp;Aenean sollicitudin imperdiet arcu, vitae dignissim est posuere id.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="color: rgb(47, 47, 34);"&gt;Nunc a sollicitudin est. Curabitur ullamcorper gravida felis, sit amet scelerisque lorem iaculis sed. Donec vel neque in neque porta venenatis sed sit amet lectus.&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span style="color: rgb(47, 47, 34);"&gt;Suspendisse pharetra auctor pharetra. Nunc a sollicitudin est.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="color: rgb(47, 47, 34);"&gt;Donec vel neque in neque porta venenatis sed sit amet lectus.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="color: rgb(47, 47, 34);"&gt;Curabitur ullamcorper gravida felis, sit amet scelerisque lorem iaculis sed.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;span style="color: rgb(47, 47, 34);"&gt;&lt;a href="#"&gt;Read more&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</content>
+      </contents>
+     </layout>
+    </page>
+    <page author="" caption="Holidays" customHeadHtml="" dateModified="09/01/2014 00:36:18" description="" keywords="" metaTags="" name="new-page-2" path="/parenting-2/new-page-2" showInHmenu="True" showInVmenu="True" showTitle="True" title="Holidays" titleInBrowser="Holidays">
+     <pageHead>&lt;style&gt;.art-content .art-postcontent-0 .layout-item-0 { color: #2C2C20; background: #E5E5DC; border-spacing: 20px 0px; border-collapse: separate;  }
+.art-content .art-postcontent-0 .layout-item-1 { color: #2C2C20; padding-right: 0px;padding-left: 0px;  }
+.ie7 .art-post .art-layout-cell {border:none !important; padding:0 !important; }
+.ie6 .art-post .art-layout-cell {border:none !important; padding:0 !important; }
+
+&lt;/style&gt;</pageHead>
+     <content>&lt;div class="art-content-layout layout-item-0"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-1" style="width: 100%" &gt;
+        &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam pharetra, tellus sit amet congue vulputate, nisi erat iaculis nibh, vitae feugiat sapien ante eget mauris.&amp;nbsp;Aenean sollicitudin imperdiet arcu, vitae dignissim est posuere id.&lt;/p&gt;
+        &lt;p&gt;Nunc a sollicitudin est. Curabitur ullamcorper gravida felis, sit amet scelerisque lorem iaculis sed. Donec vel neque in neque porta venenatis sed sit amet lectus.&lt;br&gt;&lt;/p&gt;
+        &lt;ul&gt;
+        &lt;li&gt;Suspendisse pharetra auctor pharetra. Nunc a sollicitudin est.&lt;/li&gt;
+        &lt;li&gt;Donec vel neque in neque porta venenatis sed sit amet lectus.&lt;/li&gt;
+        &lt;li&gt;Curabitur ullamcorper gravida felis, sit amet scelerisque lorem iaculis sed.&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;p&gt;&lt;a href="#"&gt;Read more&lt;/a&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+     <layout>
+      <struct>&lt;div class="art-content-layout layout-item-0"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-1" style="width: 100%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</struct>
+      <contents>
+       <content>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam pharetra, tellus sit amet congue vulputate, nisi erat iaculis nibh, vitae feugiat sapien ante eget mauris.&amp;nbsp;Aenean sollicitudin imperdiet arcu, vitae dignissim est posuere id.&lt;/p&gt;
+&lt;p&gt;Nunc a sollicitudin est. Curabitur ullamcorper gravida felis, sit amet scelerisque lorem iaculis sed. Donec vel neque in neque porta venenatis sed sit amet lectus.&lt;br&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Suspendisse pharetra auctor pharetra. Nunc a sollicitudin est.&lt;/li&gt;
+&lt;li&gt;Donec vel neque in neque porta venenatis sed sit amet lectus.&lt;/li&gt;
+&lt;li&gt;Curabitur ullamcorper gravida felis, sit amet scelerisque lorem iaculis sed.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href="#"&gt;Read more&lt;/a&gt;&lt;/p&gt;</content>
+      </contents>
+     </layout>
+    </page>
+    <page author="" caption="School" customHeadHtml="" dateModified="09/01/2014 00:36:18" description="" keywords="" metaTags="" name="new-page-3" path="/parenting-2/new-page-3" showInHmenu="True" showInVmenu="True" showTitle="True" title="School" titleInBrowser="School">
+     <pageHead>&lt;style&gt;.art-content .art-postcontent-0 .layout-item-0 { color: #2C2C20; background: #E5E5DC; border-spacing: 20px 0px; border-collapse: separate;  }
+.art-content .art-postcontent-0 .layout-item-1 { color: #2C2C20; padding-right: 0px;padding-left: 0px;  }
+.ie7 .art-post .art-layout-cell {border:none !important; padding:0 !important; }
+.ie6 .art-post .art-layout-cell {border:none !important; padding:0 !important; }
+
+&lt;/style&gt;</pageHead>
+     <content>&lt;div class="art-content-layout layout-item-0"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-1" style="width: 100%" &gt;
+        &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam pharetra, tellus sit amet congue vulputate, nisi erat iaculis nibh, vitae feugiat sapien ante eget mauris.&amp;nbsp;Aenean sollicitudin imperdiet arcu, vitae dignissim est posuere id.&lt;/p&gt;
+        &lt;p&gt;Nunc a sollicitudin est. Curabitur ullamcorper gravida felis, sit amet scelerisque lorem iaculis sed. Donec vel neque in neque porta venenatis sed sit amet lectus.&lt;br&gt;&lt;/p&gt;
+        &lt;ul&gt;
+        &lt;li&gt;Suspendisse pharetra auctor pharetra. Nunc a sollicitudin est.&lt;/li&gt;
+        &lt;li&gt;Donec vel neque in neque porta venenatis sed sit amet lectus.&lt;/li&gt;
+        &lt;li&gt;Curabitur ullamcorper gravida felis, sit amet scelerisque lorem iaculis sed.&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;p&gt;&lt;a href="#"&gt;Read more&lt;/a&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+     <layout>
+      <struct>&lt;div class="art-content-layout layout-item-0"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-1" style="width: 100%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</struct>
+      <contents>
+       <content>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam pharetra, tellus sit amet congue vulputate, nisi erat iaculis nibh, vitae feugiat sapien ante eget mauris.&amp;nbsp;Aenean sollicitudin imperdiet arcu, vitae dignissim est posuere id.&lt;/p&gt;
+&lt;p&gt;Nunc a sollicitudin est. Curabitur ullamcorper gravida felis, sit amet scelerisque lorem iaculis sed. Donec vel neque in neque porta venenatis sed sit amet lectus.&lt;br&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Suspendisse pharetra auctor pharetra. Nunc a sollicitudin est.&lt;/li&gt;
+&lt;li&gt;Donec vel neque in neque porta venenatis sed sit amet lectus.&lt;/li&gt;
+&lt;li&gt;Curabitur ullamcorper gravida felis, sit amet scelerisque lorem iaculis sed.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href="#"&gt;Read more&lt;/a&gt;&lt;/p&gt;</content>
+      </contents>
+     </layout>
+    </page>
+   </pages>
+  </page>
+  <page author="" caption="About Us" customHeadHtml="" dateModified="09/01/2014 00:36:18" description="" keywords="" metaTags="" name="about-us" path="/about-us" showInHmenu="True" showInVmenu="True" showTitle="True" title="About Us" titleInBrowser="About Us">
+   <pageHead>&lt;style&gt;.art-content .art-postcontent-0 .layout-item-0 { color: #2C2C20; background: #E5E5DC; border-spacing: 20px 0px; border-collapse: separate;  }
+.art-content .art-postcontent-0 .layout-item-1 { color: #2C2C20;  }
+.ie7 .art-post .art-layout-cell {border:none !important; padding:0 !important; }
+.ie6 .art-post .art-layout-cell {border:none !important; padding:0 !important; }
+
+&lt;/style&gt;</pageHead>
+   <content>&lt;div class="art-content-layout layout-item-0"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-1" style="width: 100%" &gt;
+        &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam pharetra, tellus sit amet congue vulputate, nisi erat iaculis nibh, vitae feugiat sapien ante eget mauris.&amp;nbsp;Aenean sollicitudin imperdiet arcu, vitae dignissim est posuere id.&lt;/p&gt;
+        &lt;p&gt;Nunc a sollicitudin est. Curabitur ullamcorper gravida felis, sit amet scelerisque lorem iaculis sed. Donec vel neque in neque porta venenatis sed sit amet lectus.&lt;br&gt;&lt;/p&gt;
+        &lt;ul&gt;
+        &lt;li&gt;Suspendisse pharetra auctor pharetra. Nunc a sollicitudin est.&lt;/li&gt;
+        &lt;li&gt;Donec vel neque in neque porta venenatis sed sit amet lectus.&lt;/li&gt;
+        &lt;li&gt;Curabitur ullamcorper gravida felis, sit amet scelerisque lorem iaculis sed.&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;p&gt;&lt;a href="#"&gt;Read more&lt;/a&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+   <layout>
+    <struct>&lt;div class="art-content-layout layout-item-0"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-1" style="width: 100%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</struct>
+    <contents>
+     <content>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam pharetra, tellus sit amet congue vulputate, nisi erat iaculis nibh, vitae feugiat sapien ante eget mauris.&amp;nbsp;Aenean sollicitudin imperdiet arcu, vitae dignissim est posuere id.&lt;/p&gt;
+&lt;p&gt;Nunc a sollicitudin est. Curabitur ullamcorper gravida felis, sit amet scelerisque lorem iaculis sed. Donec vel neque in neque porta venenatis sed sit amet lectus.&lt;br&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Suspendisse pharetra auctor pharetra. Nunc a sollicitudin est.&lt;/li&gt;
+&lt;li&gt;Donec vel neque in neque porta venenatis sed sit amet lectus.&lt;/li&gt;
+&lt;li&gt;Curabitur ullamcorper gravida felis, sit amet scelerisque lorem iaculis sed.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href="#"&gt;Read more&lt;/a&gt;&lt;/p&gt;</content>
+    </contents>
+   </layout>
+  </page>
+  <page author="" caption="Programs" customHeadHtml="" dateModified="09/01/2014 00:36:18" description="" keywords="" metaTags="" name="programs" path="/programs" showInHmenu="True" showInVmenu="True" showTitle="True" title="Programs" titleInBrowser="Programs">
+   <pageHead>&lt;style&gt;.art-content .art-postcontent-0 .layout-item-0 { color: #2C2C20; background: #E5E5DC; border-spacing: 20px 0px; border-collapse: separate;  }
+.art-content .art-postcontent-0 .layout-item-1 { color: #2C2C20;  }
+.ie7 .art-post .art-layout-cell {border:none !important; padding:0 !important; }
+.ie6 .art-post .art-layout-cell {border:none !important; padding:0 !important; }
+
+&lt;/style&gt;</pageHead>
+   <content>&lt;div class="art-content-layout layout-item-0"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-1" style="width: 100%" &gt;
+        &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam pharetra, tellus sit amet congue vulputate, nisi erat iaculis nibh, vitae feugiat sapien ante eget mauris.&amp;nbsp;Aenean sollicitudin imperdiet arcu, vitae dignissim est posuere id.&lt;/p&gt;
+        &lt;p&gt;Nunc a sollicitudin est. Curabitur ullamcorper gravida felis, sit amet scelerisque lorem iaculis sed. Donec vel neque in neque porta venenatis sed sit amet lectus.&lt;br&gt;&lt;/p&gt;
+        &lt;ul&gt;
+        &lt;li&gt;Suspendisse pharetra auctor pharetra. Nunc a sollicitudin est.&lt;/li&gt;
+        &lt;li&gt;Donec vel neque in neque porta venenatis sed sit amet lectus.&lt;/li&gt;
+        &lt;li&gt;Curabitur ullamcorper gravida felis, sit amet scelerisque lorem iaculis sed.&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;p&gt;&lt;a href="#"&gt;Read more&lt;/a&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+   <layout>
+    <struct>&lt;div class="art-content-layout layout-item-0"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-1" style="width: 100%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</struct>
+    <contents>
+     <content>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam pharetra, tellus sit amet congue vulputate, nisi erat iaculis nibh, vitae feugiat sapien ante eget mauris.&amp;nbsp;Aenean sollicitudin imperdiet arcu, vitae dignissim est posuere id.&lt;/p&gt;
+&lt;p&gt;Nunc a sollicitudin est. Curabitur ullamcorper gravida felis, sit amet scelerisque lorem iaculis sed. Donec vel neque in neque porta venenatis sed sit amet lectus.&lt;br&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Suspendisse pharetra auctor pharetra. Nunc a sollicitudin est.&lt;/li&gt;
+&lt;li&gt;Donec vel neque in neque porta venenatis sed sit amet lectus.&lt;/li&gt;
+&lt;li&gt;Curabitur ullamcorper gravida felis, sit amet scelerisque lorem iaculis sed.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href="#"&gt;Read more&lt;/a&gt;&lt;/p&gt;</content>
+    </contents>
+   </layout>
+  </page>
+  <page author="" caption="Advice" customHeadHtml="" dateModified="09/01/2014 00:36:18" description="" keywords="" metaTags="" name="advice" path="/advice" showInHmenu="True" showInVmenu="True" showTitle="True" title="Advice" titleInBrowser="Advice">
+   <pageHead>&lt;style&gt;.art-content .art-postcontent-0 .layout-item-0 { color: #2C2C20; background: #E5E5DC; border-spacing: 20px 0px; border-collapse: separate;  }
+.art-content .art-postcontent-0 .layout-item-1 { color: #2C2C20;  }
+.ie7 .art-post .art-layout-cell {border:none !important; padding:0 !important; }
+.ie6 .art-post .art-layout-cell {border:none !important; padding:0 !important; }
+
+&lt;/style&gt;</pageHead>
+   <content>&lt;div class="art-content-layout layout-item-0"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-1" style="width: 100%" &gt;
+        &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam pharetra, tellus sit amet congue vulputate, nisi erat iaculis nibh, vitae feugiat sapien ante eget mauris.&amp;nbsp;Aenean sollicitudin imperdiet arcu, vitae dignissim est posuere id.&lt;/p&gt;
+        &lt;p&gt;Nunc a sollicitudin est. Curabitur ullamcorper gravida felis, sit amet scelerisque lorem iaculis sed. Donec vel neque in neque porta venenatis sed sit amet lectus.&lt;br&gt;&lt;/p&gt;
+        &lt;ul&gt;
+        &lt;li&gt;Suspendisse pharetra auctor pharetra. Nunc a sollicitudin est.&lt;/li&gt;
+        &lt;li&gt;Donec vel neque in neque porta venenatis sed sit amet lectus.&lt;/li&gt;
+        &lt;li&gt;Curabitur ullamcorper gravida felis, sit amet scelerisque lorem iaculis sed.&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;p&gt;&lt;a href="#"&gt;Read more&lt;/a&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+   <layout>
+    <struct>&lt;div class="art-content-layout layout-item-0"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-1" style="width: 100%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</struct>
+    <contents>
+     <content>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam pharetra, tellus sit amet congue vulputate, nisi erat iaculis nibh, vitae feugiat sapien ante eget mauris.&amp;nbsp;Aenean sollicitudin imperdiet arcu, vitae dignissim est posuere id.&lt;/p&gt;
+&lt;p&gt;Nunc a sollicitudin est. Curabitur ullamcorper gravida felis, sit amet scelerisque lorem iaculis sed. Donec vel neque in neque porta venenatis sed sit amet lectus.&lt;br&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Suspendisse pharetra auctor pharetra. Nunc a sollicitudin est.&lt;/li&gt;
+&lt;li&gt;Donec vel neque in neque porta venenatis sed sit amet lectus.&lt;/li&gt;
+&lt;li&gt;Curabitur ullamcorper gravida felis, sit amet scelerisque lorem iaculis sed.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href="#"&gt;Read more&lt;/a&gt;&lt;/p&gt;</content>
+    </contents>
+   </layout>
+  </page>
+  <page author="" caption="Media" customHeadHtml="" dateModified="09/01/2014 00:36:18" description="" keywords="" metaTags="" name="media" path="/media" showInHmenu="True" showInVmenu="True" showTitle="True" title="Media" titleInBrowser="Media">
+   <pageHead>&lt;style&gt;.art-content .art-postcontent-0 .layout-item-0 { color: #2C2C20; background: #E5E5DC; border-spacing: 20px 0px; border-collapse: separate;  }
+.art-content .art-postcontent-0 .layout-item-1 { color: #2C2C20;  }
+.ie7 .art-post .art-layout-cell {border:none !important; padding:0 !important; }
+.ie6 .art-post .art-layout-cell {border:none !important; padding:0 !important; }
+
+&lt;/style&gt;</pageHead>
+   <content>&lt;div class="art-content-layout layout-item-0"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-1" style="width: 100%" &gt;
+        &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam pharetra, tellus sit amet congue vulputate, nisi erat iaculis nibh, vitae feugiat sapien ante eget mauris.&amp;nbsp;Aenean sollicitudin imperdiet arcu, vitae dignissim est posuere id.&lt;/p&gt;
+        &lt;p&gt;Nunc a sollicitudin est. Curabitur ullamcorper gravida felis, sit amet scelerisque lorem iaculis sed. Donec vel neque in neque porta venenatis sed sit amet lectus.&lt;br&gt;&lt;/p&gt;
+        &lt;ul&gt;
+        &lt;li&gt;Suspendisse pharetra auctor pharetra. Nunc a sollicitudin est.&lt;/li&gt;
+        &lt;li&gt;Donec vel neque in neque porta venenatis sed sit amet lectus.&lt;/li&gt;
+        &lt;li&gt;Curabitur ullamcorper gravida felis, sit amet scelerisque lorem iaculis sed.&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;p&gt;&lt;a href="#"&gt;Read more&lt;/a&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+   <layout>
+    <struct>&lt;div class="art-content-layout layout-item-0"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-1" style="width: 100%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</struct>
+    <contents>
+     <content>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam pharetra, tellus sit amet congue vulputate, nisi erat iaculis nibh, vitae feugiat sapien ante eget mauris.&amp;nbsp;Aenean sollicitudin imperdiet arcu, vitae dignissim est posuere id.&lt;/p&gt;
+&lt;p&gt;Nunc a sollicitudin est. Curabitur ullamcorper gravida felis, sit amet scelerisque lorem iaculis sed. Donec vel neque in neque porta venenatis sed sit amet lectus.&lt;br&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Suspendisse pharetra auctor pharetra. Nunc a sollicitudin est.&lt;/li&gt;
+&lt;li&gt;Donec vel neque in neque porta venenatis sed sit amet lectus.&lt;/li&gt;
+&lt;li&gt;Curabitur ullamcorper gravida felis, sit amet scelerisque lorem iaculis sed.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href="#"&gt;Read more&lt;/a&gt;&lt;/p&gt;</content>
+    </contents>
+   </layout>
+  </page>
+  <page author="" caption="Contacts" customHeadHtml="" dateModified="09/01/2014 00:36:18" description="" keywords="" metaTags="" name="contacts" path="/contacts" showInHmenu="True" showInVmenu="True" showTitle="True" title="Contacts" titleInBrowser="Contacts">
+   <pageHead>&lt;style&gt;.art-content .art-postcontent-0 .layout-item-0 { color: #2C2C20; background: #E5E5DC; border-spacing: 20px 0px; border-collapse: separate;  }
+.art-content .art-postcontent-0 .layout-item-1 { color: #2C2C20;  }
+.ie7 .art-post .art-layout-cell {border:none !important; padding:0 !important; }
+.ie6 .art-post .art-layout-cell {border:none !important; padding:0 !important; }
+
+&lt;/style&gt;</pageHead>
+   <content>&lt;div class="art-content-layout layout-item-0"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-1" style="width: 100%" &gt;
+        &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam pharetra, tellus sit amet congue vulputate, nisi erat iaculis nibh, vitae feugiat sapien ante eget mauris.&amp;nbsp;Aenean sollicitudin imperdiet arcu, vitae dignissim est posuere id.&lt;/p&gt;
+        &lt;p&gt;Nunc a sollicitudin est. Curabitur ullamcorper gravida felis, sit amet scelerisque lorem iaculis sed. Donec vel neque in neque porta venenatis sed sit amet lectus.&lt;br&gt;&lt;/p&gt;
+        &lt;ul&gt;
+        &lt;li&gt;Suspendisse pharetra auctor pharetra. Nunc a sollicitudin est.&lt;/li&gt;
+        &lt;li&gt;Donec vel neque in neque porta venenatis sed sit amet lectus.&lt;/li&gt;
+        &lt;li&gt;Curabitur ullamcorper gravida felis, sit amet scelerisque lorem iaculis sed.&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;p&gt;&lt;a href="#"&gt;Read more&lt;/a&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+   <layout>
+    <struct>&lt;div class="art-content-layout layout-item-0"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-1" style="width: 100%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</struct>
+    <contents>
+     <content>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam pharetra, tellus sit amet congue vulputate, nisi erat iaculis nibh, vitae feugiat sapien ante eget mauris.&amp;nbsp;Aenean sollicitudin imperdiet arcu, vitae dignissim est posuere id.&lt;/p&gt;
+&lt;p&gt;Nunc a sollicitudin est. Curabitur ullamcorper gravida felis, sit amet scelerisque lorem iaculis sed. Donec vel neque in neque porta venenatis sed sit amet lectus.&lt;br&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Suspendisse pharetra auctor pharetra. Nunc a sollicitudin est.&lt;/li&gt;
+&lt;li&gt;Donec vel neque in neque porta venenatis sed sit amet lectus.&lt;/li&gt;
+&lt;li&gt;Curabitur ullamcorper gravida felis, sit amet scelerisque lorem iaculis sed.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href="#"&gt;Read more&lt;/a&gt;&lt;/p&gt;</content>
+    </contents>
+   </layout>
+  </page>
+ </pages>
+ <sidebars>
+  <sidebar caption="" name="content-before" />
+  <sidebar caption="" name="content-after" />
+ </sidebars>
+ <collages />
+</site>
